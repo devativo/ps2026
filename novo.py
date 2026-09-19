@@ -1,1 +1,1 @@
-novo código
+print('Olá, mundo!')
